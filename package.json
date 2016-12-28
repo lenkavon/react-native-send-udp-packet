@@ -1,0 +1,18 @@
+{
+  "name": "react-native-send-udp-packet",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Send UDP packet using react-native",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lenkavon/react-native-send-udp-packet"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "udp",
+  ],
+  "author": "Lenka Vondrackova (https://github.com/lenkavon)",
+  "license": "MIT"
+}
