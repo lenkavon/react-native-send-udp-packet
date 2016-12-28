@@ -2,4 +2,4 @@
 
 import { NativeModules } from 'react-native';
 
-module.exports = NativeModules.SendUdpPacket;
+module.exports = NativeModules.RNSendUdpPacket;
