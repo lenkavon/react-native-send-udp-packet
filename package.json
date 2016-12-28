@@ -11,7 +11,7 @@
     "react-component",
     "react-native",
     "android",
-    "udp",
+    "udp"
   ],
   "author": "Lenka Vondrackova (https://github.com/lenkavon)",
   "license": "MIT"
